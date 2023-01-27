@@ -1,0 +1,15 @@
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\bin\Debug\net6.0\Week2MyVarProgram.exe
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\bin\Debug\net6.0\Week2MyVarProgram.deps.json
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\bin\Debug\net6.0\Week2MyVarProgram.runtimeconfig.json
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\bin\Debug\net6.0\Week2MyVarProgram.dll
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\bin\Debug\net6.0\Week2MyVarProgram.pdb
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.csproj.AssemblyReference.cache
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.AssemblyInfoInputs.cache
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.AssemblyInfo.cs
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.csproj.CoreCompileInputs.cache
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.dll
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\refint\Week2MyVarProgram.dll
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.pdb
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\Week2MyVarProgram.genruntimeconfig.cache
+C:\Users\clark\OneDrive\Desktop\Game & Simulation\Week2MyVarProgram\obj\Debug\net6.0\ref\Week2MyVarProgram.dll
